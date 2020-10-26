@@ -8,3 +8,5 @@ coco
 coco128
 catdog
 data
+examples/data
+serve
