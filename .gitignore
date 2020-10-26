@@ -1,0 +1,10 @@
+*.jpg
+*.pt
+*.zip
+*.cach
+.ipynb_checkpoints
+.idea
+coco
+coco128
+catdog
+data
